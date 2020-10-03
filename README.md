@@ -1,0 +1,1 @@
+# Delete-Words-from-column-name
